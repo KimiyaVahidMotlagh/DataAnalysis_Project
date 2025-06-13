@@ -7,7 +7,7 @@ This project investigates how factors like **depression**, **age**, **education*
 ## Table of Content
 
 * [Background](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/blob/main/README.md#background)
-* [Dataset Description](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/background)
+* [Dataset Description](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/blob/main/README.md#dataset-description)
 * [Methodology](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/background)
 * [Statistical Testing](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/background)
 * [Key Findings](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/background)
