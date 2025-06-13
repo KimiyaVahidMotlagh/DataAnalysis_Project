@@ -9,7 +9,6 @@ This project investigates how factors like **depression**, **age**, **education*
 * [Background](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/tree/main#background)
 * [Dataset Description](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/tree/main#dataset-description)
 * [Methodology](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/tree/main#methodology)
-* [Statistical Testing](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/tree/main#statistical-testing)
 * [Key Findings](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/tree/main#key-findings)
 * [Limitations](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/tree/main#limitations)
 * [Conclusion](https://github.com/KimiyaVahidMotlagh/DataAnalysis_Project/tree/main#conclusion)
@@ -46,7 +45,7 @@ Statistical Techniques Applied:
 * ANCOVA (to adjust for covariates like age)
 * Linear regression
 
-### Statistical Testing Highlights
+### Key Findings
 
 | Test                             | Result                      | p-value | Interpretation                             |
 | -------------------------------- | --------------------------- | ------- | ------------------------------------------ |
